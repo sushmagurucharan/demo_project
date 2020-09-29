@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "psychic-lens-289706",
+  "private_key_id": "95df29fbe6594d38c743b6f9400fd9e67df8d85e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDGghFlP/QHzk5c\nU0akjP44oewWA9qkbmVqJ5UjxoumCRKI8E0X7L+svk3FPKnjsQfjONS23D2GHUs6\nGkAjfsfJV/mD2p5PdalvmaAVtyayDtwVNXgBR934Dsz1h6t1fzYpy1zSvmeyaIgy\nAdTEg/PaVuOIvNFeqwlthCoSs8a9mdiLFMnzL9aq9iZRfX9W7+6Ryq1bhVz3dhUC\nBnxp/ild7nqugNxiMytdNgotnADm3jD99v0VJuH9nBxwlbM8rmY+IWsefesPoAWW\nfyZnAu0vOVwsL8yN9QB0xPgPpNX3xydeC4aS7+TQ657Bmu/UE3dTIW1BHua1oPU1\noKJChPItAgMBAAECggEAASHfzdyMsfi0ILmxjExo7NNw9c/a0Oz3niCQrLi8C4aU\nuPw/QaouOQ2ILbOtYmjxmxMJakDyXDqm4bN29zIzcItpwcie9jlnwy+0ppBkuPJL\nFhc30oYMQZclWycwIVudkvp1J+yXHyuSefqMXKdGCPz4Okudbsqko0p0NPwaikf8\n9jK5l/nO4Wn3ZmEYJTisRlSUl9ACYGwwhE84iEsZA1VgOT+OpX0pe0EHtKDDfOyv\nOuhwJNSwrCa8MuzxDLlI330xABfibUWh5AumtjtHQZ70sbSkAtpkL1fmtUH2Oa0C\nT7zdADCrm3S2kmZ9d3QXVK10f4o9a7p+eitLnhba3wKBgQD3QqJ176H14RhZyxgB\n0rHIfjQ/9HMm7l0Pc4AL5mRSbnjSE2tXV0QIkQ7zPQBlPovqezvAwpsgee/EellM\n2iC7ueZxTOGhoQJCCjxkp2sAjKI0HPnrO/8+ktFStByZtCBAUjYjt5mQA4Jl9WgM\nb0pFB3v63X9/FPuq1D7+H+DbVwKBgQDNhkr7FL3MUiG4qExAAtONIt3QFjHssdrc\nWwCrgtO5MZ5da953M3fjKzeqojg7qDQJ18Jj+H6g3ebEntP8Pge40vAcqaDz1uSk\nnDXpbstK3RwFBjFlCKOrd0rsIBEXpcKICGdtUghJ/Mj11orclZhhlzwYkeljxMUb\nXCxCSc6wGwKBgQDCHrJlXOkOnNX9SRFj/QJOoaZrv4LYQbMV+lvA+/QvM0Pvygcv\n3vcuspPGK1IwKla2lGFpCF+5s4GmA1gwmd+xAlYFBZLuzfVz241miHndSIvf1g/v\nun69pY5pG7aIhX38gY63o+EPy3GIko5JlOX+I84WOedq4hJjH5cE9AoYqQKBgQC8\nCpTr6OxG1xaXVxR8tJlOVopP6x6+i3PNjU2tnsOMe8ODgkBHG8YjCNWjv0xn+Nuz\n7b6jrSZelOihGRinfzGdfxHFh8YFk6YanfoNnBtQYcFTL3leEWt+ZGUeabB5zGWS\nBO5sbVO8LhbIJwViEVUcZTzM1iON7ujQwaKU++ap5QKBgQCiPG+JpJh3KfCIixA4\nmQw7dZY8+crwT5+mFZmAWQQOkf9JcTtkQXaLxgR+OtD3XhnZdSGcdOAhYj5hym2O\n1ohqN8faeN60aHwA2axNYb90mDdJBKWlJbVDF1qgrh6b/5IkhmcvCnewTQK1Rj49\n4PHingI2he+TcpOlkFX4pP1WYA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-xunto@psychic-lens-289706.iam.gserviceaccount.com",
+  "client_id": "100050229518206494848",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-xunto%40psychic-lens-289706.iam.gserviceaccount.com"
+}
