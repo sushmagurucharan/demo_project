@@ -4,8 +4,6 @@ const express = require('express');
 session = require('express-session');
 const cors = require('cors');
 const router =require('./router');
-const controllers = require('./controller');
-const authController=require('./authController');
 const { apiConfig,messages } = require('./constants');
 const {
   exceptionMiddleware,
@@ -21,7 +19,7 @@ app1.use(session({
   expires : new Date(Date.now() + 3600000), //1 Hour
 }));
 app1.use(cors({ origin: true }));
-app1.use(apiConfig.ROOT_URL_APP2, controllers);
+app1.use(apiConfig.ROOT_URL_APP1, router);
 app1.all('*', unknownRoutesMiddleware);
 app1.use(exceptionMiddleware);
 
